@@ -1,0 +1,11 @@
+#signedUsers {
+    justify-content: center;
+}
+
+#centerGrid {
+    min-height: 100vh;
+}
+
+#searchInput {
+    display: inline-flex;
+}

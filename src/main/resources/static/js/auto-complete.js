@@ -18,7 +18,7 @@ $(function () {
                     });
                     return response;
                 },
-                url: '//localhost:8080/api/user/search?name={query}'
+                url: '/api/user/search?name={query}'
             }
         })
     ;
